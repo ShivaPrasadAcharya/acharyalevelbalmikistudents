@@ -1,0 +1,40 @@
+{
+  "title": "आचार्य प्रथम वर्ष · कोठा ११",
+  "description": "मिति: २०८३/०६/१८ · ढोका र झ्याल तर्फको विद्यार्थी सूची",
+  "columns": [
+    {"key": "roll", "label": "रोल नम्बर"},
+    {"key": "name", "label": "विद्यार्थीको नाम"},
+    {"key": "side", "label": "तर्फ"},
+    {"key": "row", "label": "पङ्क्ति"},
+    {"key": "seat", "label": "स्थान"},
+    {"key": "note", "label": "कैफियत"}
+  ],
+  "rows": [
+    {"roll":"831910002","name":"Arjun Sigdel","side":"ढोका तर्फ","row":1,"seat":1,"note":""},
+    {"roll":"831910003","name":"Arun Gautam","side":"ढोका तर्फ","row":1,"seat":2,"note":""},
+    {"roll":"831910007","name":"Bhanu Bhakta Upadhya…","side":"ढोका तर्फ","row":2,"seat":1,"note":"फोटोमा थरको अन्तिम भाग काटिएको छ।"},
+    {"roll":"831910010","name":"Bikas Regmi","side":"ढोका तर्फ","row":2,"seat":2,"note":""},
+    {"roll":"831910013","name":"Biplave Adhikari","side":"ढोका तर्फ","row":3,"seat":1,"note":""},
+    {"roll":"831910018","name":"Debaka Timilsina","side":"ढोका तर्फ","row":3,"seat":2,"note":""},
+    {"roll":"831910025","name":"Giridhar Dhungana","side":"ढोका तर्फ","row":4,"seat":1,"note":""},
+    {"roll":"831910027","name":"Hari Kanta Mishra","side":"ढोका तर्फ","row":4,"seat":2,"note":""},
+    {"roll":"831910030","name":"Janardan Aryal","side":"ढोका तर्फ","row":5,"seat":1,"note":""},
+    {"roll":"831910049","name":"Narayan Adhikari","side":"ढोका तर्फ","row":5,"seat":2,"note":""},
+    {"roll":"831910048","name":"Nabin Uphadhaya","side":"ढोका तर्फ","row":6,"seat":1,"note":""},
+    {"roll":"831910031","name":"Kabi Raj Ghimire","side":"ढोका तर्फ","row":6,"seat":2,"note":""},
+    {"roll":"831910088","name":"Sudip koirala","side":"झ्याल तर्फ","row":1,"seat":1,"note":""},
+    {"roll":"831910090","name":"Tara Bir Kunwor","side":"झ्याल तर्फ","row":1,"seat":2,"note":""},
+    {"roll":"831910046","name":"Madhav Prasad Poud…","side":"झ्याल तर्फ","row":2,"seat":1,"note":"फोटोमा थरको अन्तिम भाग काटिएको छ।"},
+    {"roll":"831910055","name":"Nirmal Bhattarai","side":"झ्याल तर्फ","row":2,"seat":2,"note":""},
+    {"roll":"831910045","name":"Madhav Prasad Kand…","side":"झ्याल तर्फ","row":3,"seat":1,"note":"फोटोमा थरको अन्तिम भाग काटिएको छ।"},
+    {"roll":"831910067","name":"Ram Kumar Regmi","side":"झ्याल तर्फ","row":3,"seat":2,"note":""},
+    {"roll":"831910037","name":"Kumba Raj Pandey","side":"झ्याल तर्फ","row":4,"seat":1,"note":""},
+    {"roll":"831910064","name":"Rabindra Timalsina","side":"झ्याल तर्फ","row":4,"seat":2,"note":""},
+    {"roll":"831910035","name":"Kiran Adhikari","side":"झ्याल तर्फ","row":5,"seat":1,"note":""},
+    {"roll":"831910063","name":"Puspa Raj Dahal","side":"झ्याल तर्फ","row":5,"seat":2,"note":""},
+    {"roll":"831910072","name":"Sajan Kumar Sigdel","side":"झ्याल तर्फ","row":6,"seat":1,"note":""},
+    {"roll":"831910056","name":"Poojan Acharya","side":"झ्याल तर्फ","row":6,"seat":2,"note":""},
+    {"roll":"831910079","name":"Saroj Adhikari","side":"झ्याल तर्फ","row":7,"seat":1,"note":""},
+    {"roll":"831910085","name":"Shreedhar Subedi","side":"झ्याल तर्फ","row":7,"seat":2,"note":""}
+  ]
+}
